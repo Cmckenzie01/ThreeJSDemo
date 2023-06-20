@@ -1,6 +1,6 @@
 # ThreeJSDemo
 
-Getting Started
+Getting Started https://cmckenzie01.github.io/ThreeJSDemo/
 
 Use the following controls to navigate the spaceship:
 
